@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://saurabh-tuc.github.io/The-Revive-Fitness/sitemap.xml
